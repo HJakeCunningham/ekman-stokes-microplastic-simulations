@@ -2,9 +2,7 @@
 
 ![image](./Figures/microplastics_4.png)
 
-This repository contains all the code used to create datasets, run simulations and analyse the work presented in the paper [The role of the unsteady surface wave-driven Ekman–Stokes flow in the accumulation of floating marine litter](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC018106)
-
-Particle tracking simulations are performed using [OceanParcels](https://github.com/OceanParcels/parcels) library. 
+This repository contains all the code used to create datasets, run simulations and analyse the work presented in the paper [The role of the unsteady surface wave-driven Ekman–Stokes flow in the accumulation of floating marine litter](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021JC018106). Particle tracking simulations are performed using [OceanParcels](https://github.com/OceanParcels/parcels) library. 
 
 If you find this repository useful, please cite our paper
 ```bibtex
